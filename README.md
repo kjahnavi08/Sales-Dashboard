@@ -1,0 +1,2 @@
+# SuperStore Sales Dashboard
+## Developed interactive sales dashboards in Power BI, incorporating advanced data analysis techniques such as time series analysis and sales forecasting. Designed dynamic visualizations to track key business metrics, including total sales, profit margins, regional performance, and product category trends. Implemented DAX measures for insightful analysis and efficient reporting.
